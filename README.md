@@ -74,12 +74,6 @@ pip install pandas numpy seaborn matplotlib scikit-learn jupyter
 jupyter notebook titanic_logistic_regression.ipynb
 ```
 
-## Future Work
-
-- [✅] Implement **K-Nearest Neighbors (KNN)** on the same dataset
-- [✅] Compare Logistic Regression vs KNN
-
-
 ## Author
 
 **Tasleem Khan**
