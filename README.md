@@ -76,10 +76,9 @@ jupyter notebook titanic_logistic_regression.ipynb
 
 ## Future Work
 
-- [ ] Implement **K-Nearest Neighbors (KNN)** on the same dataset
-- [ ] Compare Logistic Regression vs KNN
-- [ ] Hyperparameter tuning (choosing the best `k`)
-- [ ] Try more models (Decision Tree, Random Forest)
+- [✅] Implement **K-Nearest Neighbors (KNN)** on the same dataset
+- [✅] Compare Logistic Regression vs KNN
+
 
 ## Author
 
